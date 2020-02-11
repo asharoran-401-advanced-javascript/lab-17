@@ -2,8 +2,8 @@
 
 ## Author: As-har Oran
 ## Links and Resources
-* (pull request ) : [https://github.com/asharoran-401-advanced-javascript/Authentication/pull/1]
-* ( action) : [https://github.com/asharoran-401-advanced-javascript/Authentication/actions]
+* (pull request ) : [https://github.com/asharoran-401-advanced-javascript/lab-17/pull/1]
+* ( action) : [https://github.com/asharoran-401-advanced-javascript/lab-17/actions]
 
 ## Setup
 create 3 four folder (server , event , logger, app)
